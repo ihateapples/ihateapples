@@ -21,7 +21,7 @@
 
 ## 📫 How to Reach Me
 - **Discord**: @ihateapplesdotxyz
-- **Email**: contact@ihateapples.xyz
+- **Email**: [contact@ihateapples.xyz](contact@ihateapples.xyz)
 - **GitHub**: [ihateapples](https://github.com/ihateapples)
 
 
