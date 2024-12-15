@@ -16,9 +16,6 @@
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
 ## 📫 How to Reach Me
 - **Discord**: @ihateapplesdotxyz
 - **Email**: [contact@ihateapples.xyz](contact@ihateapples.xyz)
